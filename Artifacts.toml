@@ -1,0 +1,135 @@
+[[cbindgen]]
+arch = "aarch64"
+git-tree-sha1 = "8c5742ab1bb88e06057cd43c75284427d9d51bf3"
+os = "macos"
+
+    [[cbindgen.download]]
+    sha256 = "eca05eed8b500b6c2b3c96482780754c8e39ffc0767e15a1e6d3777498463014"
+    url = "https://github.com/JuliaBinaryWrappers/cbindgen_jll.jl/releases/download/cbindgen-v0.22.0+0/cbindgen.v0.22.0.aarch64-apple-darwin.tar.gz"
+[[cbindgen]]
+arch = "aarch64"
+git-tree-sha1 = "760c18bab463eb749424d1fa9cc9fd5d73be8fe1"
+libc = "glibc"
+os = "linux"
+
+    [[cbindgen.download]]
+    sha256 = "66ce1c9fe4c6d5f473ade82f9a52d64dca7e50c167b4794945aa0179c391b220"
+    url = "https://github.com/JuliaBinaryWrappers/cbindgen_jll.jl/releases/download/cbindgen-v0.22.0+0/cbindgen.v0.22.0.aarch64-linux-gnu.tar.gz"
+[[cbindgen]]
+arch = "aarch64"
+git-tree-sha1 = "597eadc6fbc2b0ae42927268b5028ab5dcf4c9b9"
+libc = "musl"
+os = "linux"
+
+    [[cbindgen.download]]
+    sha256 = "c93a27c0d2aee4191e586de2b25210c26a8da472a176c6cbede4b8b0931d9fcc"
+    url = "https://github.com/JuliaBinaryWrappers/cbindgen_jll.jl/releases/download/cbindgen-v0.22.0+0/cbindgen.v0.22.0.aarch64-linux-musl.tar.gz"
+[[cbindgen]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c96fcdb82f479123966e9363e57fe3da6a5e3a4d"
+libc = "glibc"
+os = "linux"
+
+    [[cbindgen.download]]
+    sha256 = "ea437d20b00f0cc43e36ac839f19b4f3c251cd270d8acd22e783ea28392c5857"
+    url = "https://github.com/JuliaBinaryWrappers/cbindgen_jll.jl/releases/download/cbindgen-v0.22.0+0/cbindgen.v0.22.0.armv6l-linux-gnueabihf.tar.gz"
+[[cbindgen]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "770a57307943a45a36547ac4c24da93daf021a0c"
+libc = "musl"
+os = "linux"
+
+    [[cbindgen.download]]
+    sha256 = "f25a8ee7e454ba972679320fbafee7b4ddfbde4f9d2e48c12fe8e53e93618133"
+    url = "https://github.com/JuliaBinaryWrappers/cbindgen_jll.jl/releases/download/cbindgen-v0.22.0+0/cbindgen.v0.22.0.armv6l-linux-musleabihf.tar.gz"
+[[cbindgen]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c5abb340cb807df70a74124b58c87695159e4e12"
+libc = "glibc"
+os = "linux"
+
+    [[cbindgen.download]]
+    sha256 = "fd4052a939130eae8a43ef5353cda1bd96d515e8d32282a27d97ba1992279de9"
+    url = "https://github.com/JuliaBinaryWrappers/cbindgen_jll.jl/releases/download/cbindgen-v0.22.0+0/cbindgen.v0.22.0.armv7l-linux-gnueabihf.tar.gz"
+[[cbindgen]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c488b157ad831a84fa83673d4fc5870444b84cb7"
+libc = "musl"
+os = "linux"
+
+    [[cbindgen.download]]
+    sha256 = "8ad45edd5694c3360702379f503b1a7a0ca472d7c0ffa258a321970eeb445c95"
+    url = "https://github.com/JuliaBinaryWrappers/cbindgen_jll.jl/releases/download/cbindgen-v0.22.0+0/cbindgen.v0.22.0.armv7l-linux-musleabihf.tar.gz"
+[[cbindgen]]
+arch = "i686"
+git-tree-sha1 = "7eb17e41c3c1670334eef084998e639b7a1bca05"
+libc = "glibc"
+os = "linux"
+
+    [[cbindgen.download]]
+    sha256 = "0a7cf493b9aee1e8ca4b29d78aedd5b3c1c9d9170c91efcc6d82cfe922c7cd1c"
+    url = "https://github.com/JuliaBinaryWrappers/cbindgen_jll.jl/releases/download/cbindgen-v0.22.0+0/cbindgen.v0.22.0.i686-linux-gnu.tar.gz"
+[[cbindgen]]
+arch = "i686"
+git-tree-sha1 = "ffb7d697ec7b4331a02b9594bf6d591cb0877f53"
+libc = "musl"
+os = "linux"
+
+    [[cbindgen.download]]
+    sha256 = "dd6720fb503679e317afd511e8cfa382b9727e9499ca6bf825bb36a7b23474c6"
+    url = "https://github.com/JuliaBinaryWrappers/cbindgen_jll.jl/releases/download/cbindgen-v0.22.0+0/cbindgen.v0.22.0.i686-linux-musl.tar.gz"
+[[cbindgen]]
+arch = "powerpc64le"
+git-tree-sha1 = "555b2f157113a7e42e9a8eb9767ed7359524cc56"
+libc = "glibc"
+os = "linux"
+
+    [[cbindgen.download]]
+    sha256 = "f367f1e645cc1d12c2e6ea75a240a6ad2178474cc9aedcac0752a067e3a31bd1"
+    url = "https://github.com/JuliaBinaryWrappers/cbindgen_jll.jl/releases/download/cbindgen-v0.22.0+0/cbindgen.v0.22.0.powerpc64le-linux-gnu.tar.gz"
+[[cbindgen]]
+arch = "x86_64"
+git-tree-sha1 = "80c1b6e7fbc58faab52ceadbea44a87296fda6f2"
+os = "macos"
+
+    [[cbindgen.download]]
+    sha256 = "e88cf7b02d185a7d9a230b55f4d22907c27c6258390ce39e327f98d9ac066475"
+    url = "https://github.com/JuliaBinaryWrappers/cbindgen_jll.jl/releases/download/cbindgen-v0.22.0+0/cbindgen.v0.22.0.x86_64-apple-darwin.tar.gz"
+[[cbindgen]]
+arch = "x86_64"
+git-tree-sha1 = "3bda5b059bdaf1add36bd71f7795b1e3a9d16fd4"
+libc = "glibc"
+os = "linux"
+
+    [[cbindgen.download]]
+    sha256 = "8ce330dcf1225326a163e2532b40021e7e602f2f4a989c958ca755b93f71606a"
+    url = "https://github.com/JuliaBinaryWrappers/cbindgen_jll.jl/releases/download/cbindgen-v0.22.0+0/cbindgen.v0.22.0.x86_64-linux-gnu.tar.gz"
+[[cbindgen]]
+arch = "x86_64"
+git-tree-sha1 = "b0d82bebc96a92b5e29bc98a588785db83857855"
+libc = "musl"
+os = "linux"
+
+    [[cbindgen.download]]
+    sha256 = "92c66ea5a651a63d12b31cfeda9154437163ff70718270e837a0d785d1cb7943"
+    url = "https://github.com/JuliaBinaryWrappers/cbindgen_jll.jl/releases/download/cbindgen-v0.22.0+0/cbindgen.v0.22.0.x86_64-linux-musl.tar.gz"
+[[cbindgen]]
+arch = "x86_64"
+git-tree-sha1 = "306a95a036db0518bfba63a50500ff91af9b7daf"
+os = "freebsd"
+
+    [[cbindgen.download]]
+    sha256 = "3a1f2edb9a698f3797af5ff6d1f9c83e39696edbbbeb83c93d334dd741fa8821"
+    url = "https://github.com/JuliaBinaryWrappers/cbindgen_jll.jl/releases/download/cbindgen-v0.22.0+0/cbindgen.v0.22.0.x86_64-unknown-freebsd.tar.gz"
+[[cbindgen]]
+arch = "x86_64"
+git-tree-sha1 = "c92157bea0cbdcfa73a9ec8af9cfb4b532ffa27c"
+os = "windows"
+
+    [[cbindgen.download]]
+    sha256 = "81d7946026e509265fc91c36a8a1d09b1044cdb2b00e5a2967053bcf6ffcac80"
+    url = "https://github.com/JuliaBinaryWrappers/cbindgen_jll.jl/releases/download/cbindgen-v0.22.0+0/cbindgen.v0.22.0.x86_64-w64-mingw32.tar.gz"
